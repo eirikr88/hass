@@ -1,0 +1,25 @@
+- alias: Turn on the outdoor lights when the sun sets
+  trigger:
+    - platform: sun
+      event: sunset
+      offset: "-00:10:00"
+  action:
+    service: light.turn_on
+    entity_id: group.outdoor_lights
+
+- alias: Turn off the outdoor lights when the sun rises
+  trigger:
+    - platform: sun
+      event: sunrise
+      offset: "00:20:00"
+  action:
+    service: light.turn_off
+    entity_id: group.outdoor_lights
+    
+- alias: Turn off the indoor lights at 1 am
+  trigger:
+    - platform: time
+      at: "01:00:00"
+  action:
+    service: light.turn_off
+    entity_id: group.indoor_lights

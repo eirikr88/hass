@@ -1,0 +1,7 @@
+Outdoor Lights:
+  - light.frontdoor
+  - light.backdoor
+
+Indoor Lights:
+  - light.livingroom
+  - light.kitchen

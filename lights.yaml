@@ -1,0 +1,39 @@
+- platform: mqtt
+  name: Backdoor
+  command_topic: "/backdoor/gpio/12"
+  state_topic: "/backdoor/relay/#"
+  payload_on: "1"
+  payload_off: "0"
+  retain: true
+
+- platform: mqtt
+  name: Frontdoor
+  command_topic: "/frontdoor/gpio/12"
+  state_topic: "/frontdoor/relay/#"
+  payload_on: "1"
+  payload_off: "0"
+  retain: true
+
+- platform: mqtt
+  name: Bedroom
+  command_topic: "/bedroom/gpio/12"
+  state_topic: "/bedroom/relay/#"
+  payload_on: "1"
+  payload_off: "0"
+  retain: true
+
+- platform: mqtt
+  name: Livingroom
+  command_topic: "/livingroom/gpio/12"
+  state_topic: "/livingroom/#"
+  payload_on: "1"
+  payload_off: "0"
+  retain: true
+
+- platform: mqtt
+  name: Kitchen
+  command_topic: "/kitchen/gpio/12"
+  state_topic: "/kitchen/#"
+  payload_on: "1"
+  payload_off: "0"
+  retain: true

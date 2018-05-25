@@ -1,0 +1,179 @@
+oneplus_5:
+  hide_if_away: false
+  icon:
+  mac: 94:65:2D:7A:68:88
+  name: Erik
+  picture:
+  track: true
+  vendor: OnePlus Technology (Shenzhen) Co., Ltd
+
+raspberrypi:
+  hide_if_away: false
+  icon:
+  mac: B8:27:EB:BE:64:C4
+  name: raspberrypi
+  picture:
+  track: false
+  vendor: Raspberry Pi Foundation
+
+bedroom_5:
+  hide_if_away: false
+  icon:
+  mac: 68:C6:3A:81:0B:84
+  name: bedroom 5
+  picture:
+  track: false
+  vendor: unknown
+
+desktoptorvajl:
+  hide_if_away: false
+  icon:
+  mac: CC:B0:DA:6D:64:93
+  name: DESKTOP-TORVAJL
+  picture:
+  track: false
+  vendor: unknown
+
+android71a319c7a1dc9dca:
+  hide_if_away: false
+  icon:
+  mac: D8:0F:99:62:E9:85
+  name: android-71a319c7a1dc9dca
+  picture:
+  track: false
+  vendor: unknown
+
+chromecast:
+  hide_if_away: false
+  icon:
+  mac: 54:60:09:0B:38:EE
+  name: Chromecast
+  picture:
+  track: false
+  vendor: unknown
+
+backdoor_1:
+  hide_if_away: false
+  icon:
+  mac: 60:01:94:5D:C2:45
+  name: backdoor 1
+  picture:
+  track: false
+  vendor: unknown
+
+frontdoor_4:
+  hide_if_away: false
+  icon:
+  mac: 68:C6:3A:81:0E:13
+  name: frontdoor 4
+  picture:
+  track: false
+  vendor: Espressif Inc.
+
+android3ca8f6cdfc93b66d:
+  hide_if_away: false
+  icon:
+  mac: B4:CE:F6:09:90:CC
+  name: android-3ca8f6cdfc93b66d
+  picture:
+  track: false
+  vendor: HTC Corporation
+
+outdoor_garden_light_2:
+  hide_if_away: false
+  icon:
+  mac: 60:01:94:5D:C2:4C
+  name: outdoor garden light 2
+  picture:
+  track: false
+  vendor: Espressif Inc.
+
+erikdesktop:
+  hide_if_away: false
+  icon:
+  mac: 60:A4:4C:5F:B3:2E
+  name: erik-desktop
+  picture:
+  track: false
+  vendor: ASUSTek COMPUTER INC.
+
+iphonefrancesco:
+  hide_if_away: false
+  icon:
+  mac: 60:F8:1D:24:B5:35
+  name: IphoneFrancesco
+  picture:
+  track: false
+  vendor: Apple, Inc.
+
+84c7ea2da671:
+  hide_if_away: false
+  icon:
+  mac: 84:C7:EA:2D:A6:71
+  name: --
+  picture:
+  track: false
+  vendor: Sony Mobile Communications AB
+
+etgtnb163:
+  hide_if_away: false
+  icon:
+  mac: F0:D5:BF:E5:A8:21
+  name: ETGTNB163
+  picture:
+  track: false
+  vendor: Intel Corporate
+
+espeasy0:
+  hide_if_away: false
+  icon:
+  mac: 2C:3A:E8:2E:D1:BF
+  name: ESP-Easy-0
+  picture:
+  track: false
+  vendor: Espressif Inc.
+
+espeasy0_2:
+  hide_if_away: false
+  icon:
+  mac: 5C:CF:7F:58:34:4B
+  name: ESP-Easy-0
+  picture:
+  track: false
+  vendor: Espressif Inc.
+
+laptopmg95tac6:
+  hide_if_away: false
+  icon:
+  mac: CC:B0:DA:5D:3B:E1
+  name: LAPTOP-MG95TAC6
+  picture:
+  track: false
+  vendor: Liteon Technology Corporation
+
+applewarancesco:
+  hide_if_away: false
+  icon:
+  mac: 4C:32:75:EE:0E:35
+  name: AppleWarancesco
+  picture:
+  track: false
+  vendor: Apple, Inc.
+
+android71a319c7a1dc9dca_2:
+  hide_if_away: false
+  icon:
+  mac: 04:5D:4B:F7:42:BC
+  name: android-71a319c7a1dc9dca
+  picture:
+  track: false
+  vendor: Sony Corporation
+
+xboxone:
+  hide_if_away: false
+  icon:
+  mac: 98:5F:D3:0B:D9:2E
+  name: XboxOne
+  picture:
+  track: false
+  vendor: Microsoft Corporation
