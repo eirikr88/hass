@@ -1,0 +1,4 @@
+Outdoor Lights:
+  entities:
+    - light.frontdoor
+    - light.backdoor
